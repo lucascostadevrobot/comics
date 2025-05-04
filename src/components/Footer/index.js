@@ -4,14 +4,14 @@ import { FooterBase } from './styles';
 function Footer() {
   return (
     <FooterBase>
-      <a href="https://www.alura.com.br/">
-        <img src="https://www.alura.com.br/assets/img/alura-logo-white.1570550707.svg" alt="Logo Alura" />
+      <a href="https://www.linkedin.com/in/lucas-costa-2219b5189/">
+        <p>Lucas da Costa da Silva</p>
       </a>
       <p>
-        Orgulhosamente criado durante a
+        Projeto acadêmico
         {' '}
-        <a href="https://www.alura.com.br/">
-          Imersão React da Alura
+        <a href="https://www.linkedin.com/in/lucas-costa-2219b5189/">
+          Imersão React Alura
         </a>
       </p>
     </FooterBase>
