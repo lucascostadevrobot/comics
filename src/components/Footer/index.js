@@ -5,7 +5,7 @@ function Footer() {
   return (
     <FooterBase>
       <a href="https://www.linkedin.com/in/lucas-costa-2219b5189/">
-        <p>Lucas da Costa da Silva @ Up</p>
+        <img src="" alt="Logo Lucas da Costa" />
       </a>
       <p>
         Projeto acadêmico
